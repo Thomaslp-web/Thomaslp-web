@@ -1,10 +1,4 @@
-Aqui está o `README` com as informações de contato atualizadas, incluindo o link do seu Instagram.
 
-Basta copiar o código abaixo e colar no arquivo `README.md` do seu repositório de perfil.
-
------
-
-```markdown
 ### Olá, meu nome é Thomas! 👋
 
 Sou um desenvolvedor **Front-end** apaixonado por criar experiências digitais incríveis. Minhas ferramentas principais são **HTML, CSS e JavaScript**, e eu as utilizo para transformar designs em websites dinâmicos e responsivos.
